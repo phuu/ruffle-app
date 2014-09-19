@@ -1,0 +1,20 @@
+{
+  "name": "ruffle-app",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "test": "make test",
+    "start": "make watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "watchify": "^1.0.2",
+    "browserify": "^5.11.0",
+    "tape": "^2.14.0",
+    "faucet": "0.0.1"
+  },
+  "dependencies": {
+    "ruffle": "^1.0.0"
+  }
+}
